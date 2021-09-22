@@ -1,4 +1,4 @@
-# Simulación campo magnetico
+# Simulación de campo magnetico
 
 ## Información
 TC1030 - Programación orientada a objetos
